@@ -49,6 +49,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🔌 API & Integrations
