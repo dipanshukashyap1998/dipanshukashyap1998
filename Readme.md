@@ -1,17 +1,20 @@
 <!-- Typing Animation -->
 
 <h1 align="center">Hi 👋, I'm Dipanshu Kashyap</h1>
-<h3 align="center">💻 Full Stack Engineer | Laravel | Node.js | Vue.js | AWS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;3%2B+Years+Experience;Laravel+%7C+Vue.js+%7C+AWS;Building+Scalable+SaaS+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Laravel+Developer;Node.js+Developer;Vue.js+Developer;AWS+Cloud+Enthusiast;Building+Scalable+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Full Stack Developer with strong expertise in **PHP, Laravel & Vue.js**
+* 💼 Full Stack Engineer with strong expertise in **PHP, Laravel & Vue.js**
 * 🔭 Currently building and optimizing **scalable SaaS & web applications**
 * 🌱 Continuously improving in **modern frontend (Vue.js) & system design**
 * ⚡ Specialized in **database optimization, query tuning & Redis caching**
