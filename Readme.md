@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-* 💼 Full Stack Engineer with strong expertise in **PHP, Laravel & Vue.js**
+* 💼 Full Stack Engineer with strong expertise in **PHP, Laravel, Node.js & Vue.js**
 * 🔭 Currently building and optimizing **scalable SaaS & web applications**
 * 🌱 Continuously improving in **modern frontend (Vue.js) & system design**
 * ⚡ Specialized in **database optimization, query tuning & Redis caching**
