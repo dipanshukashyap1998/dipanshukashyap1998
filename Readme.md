@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 
 <h1 align="center">Hi 👋, I'm Dipanshu Kashyap</h1>
-<h3 align="center">💻 Full Stack Engineer | Laravel | Vue.js | AWS</h3>
+<h3 align="center">💻 Full Stack Engineer | Laravel | Node.js | Vue.js | AWS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;3%2B+Years+Experience;Laravel+%7C+Vue.js+%7C+AWS;Building+Scalable+SaaS+Apps" />
@@ -30,12 +30,14 @@
   <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
